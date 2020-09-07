@@ -1,2 +1,2 @@
 # machine-learning-Edu
-Lets's dive in Data World!
+Lets's dive in Data World.
